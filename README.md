@@ -2,6 +2,8 @@
 
 This project is built with React and latest Firebase SDK version 9.
 
+Created by following a tutorial found online on youtube, and then augmented with my own features.
+
 ## Run the app
 
 - Clone this repo
@@ -10,6 +12,3 @@ This project is built with React and latest Firebase SDK version 9.
 - Value of REACT_APP_DATABASE_URL will be https://YOUR-FIREBASE-PROJECT-NAME.firebaseio.com simply replace YOUR-FIREBASE-PROJECT-NAME with your project name
 - Run **npm start**
 
-[YouTube video tutorial](https://youtu.be/fdcruaIiQxc)
-
-[Text based and video tutorials](https://farhanfarooq.com/tutorials)
