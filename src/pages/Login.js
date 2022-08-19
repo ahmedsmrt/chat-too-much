@@ -54,6 +54,7 @@ const Login = () => {
             name="email"
             value={email}
             onChange={handleChange}
+            placeholder="Test@test.com"
           />
         </div>
         <div className="input_container">
@@ -63,6 +64,7 @@ const Login = () => {
             name="password"
             value={password}
             onChange={handleChange}
+            placeholder="Test123!"
           />
         </div>
         {error ? <p className="error">{error}</p> : null}
